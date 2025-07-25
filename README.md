@@ -1,11 +1,31 @@
-# OpenSteri
+# OpenSteri ✂️
 Wiki on Sterilization (esp, bilateral salpingectomy) #Tech4Good #Feminism
 
 Not medical advice. Just sharing resources I found useful.
 
+## Sterilization
+
+#### What is sterilization?
+
+A **permanent method** of birth control. 
+
+#### Does sterilization prevent sexually transmitted infections (STIs)？
+
+**No!**
+
 ## Salpingectomy
 
 [What is a salpingectomy?](https://my.clevelandclinic.org/health/treatments/21879-salpingectomy)
+
+#### Bilateral salpingectomy vs Tubal ligation
+
+**Bilateral salpingectomy** is the standard procedure.
+
+The ACOG writes in their Committee Opinion updated April 2019:
+
+[ACOG Committee Opinion No. 774: Opportunistic Salpingectomy as a Strategy for Epithelial Ovarian Cancer Prevention](https://pubmed.ncbi.nlm.nih.gov/30913199/)
+
+> Salpingectomy as a means of tubal sterilization appears to be safe and does not increase the risk of complications such as blood transfusions, readmissions, postoperative complications, infections, or fever compared with tubal ligation.
 
 ### Guide and Experience
 
@@ -28,3 +48,12 @@ Not medical advice. Just sharing resources I found useful.
 1. [Salpingectomy for the Primary Prevention of Ovarian Cancer: A Systematic Review](https://pubmed.ncbi.nlm.nih.gov/37672283/)
 2. [Spontaneous Pregnancy after Total Bilateral Salpingectomy: A Systematic Review of Literature](https://pubmed.ncbi.nlm.nih.gov/34592466/)
 3. 
+
+### Myth and Conceptions:
+
+1. Will you still get periods after Bisalp? 
+
+### Reference
+
+[1]“Sterilization for Women and Men,” ACOG. Accessed: Jul. 25, 2025. [Online]. Available: https://www.acog.org/womens-health/faqs/sterilization-for-women-and-men
+  
