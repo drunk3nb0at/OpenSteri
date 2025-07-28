@@ -56,4 +56,8 @@ The ACOG writes in their Committee Opinion updated April 2019:
 ### Reference
 
 [1]“Sterilization for Women and Men,” ACOG. Accessed: Jul. 25, 2025. [Online]. Available: https://www.acog.org/womens-health/faqs/sterilization-for-women-and-men
+
+### Web Application Plan
+
+Front-end: [Astro](https://github.com/withastro/astro)
   
