@@ -55,7 +55,12 @@ The ACOG writes in their Committee Opinion updated April 2019:
 
 ### Reference
 
-[1]“Sterilization for Women and Men,” ACOG. Accessed: Jul. 25, 2025. [Online]. Available: https://www.acog.org/womens-health/faqs/sterilization-for-women-and-men
+[1] American College of Obstetricians and Gynecologists, “Sterilization for Women and Men,” ACOG. Accessed: Oct. 25, 2025. [Online]. Available: https://www.acog.org/womens-health/faqs/sterilization-for-women-and-men
+
+[2] M. P. Galupo, L. Pulice-Farrow, and E. Pehl, “‘There Is Nothing to Do About It’: Nonbinary Individuals’ Experience of Gender Dysphoria,” Transgender health, vol. 6, no. 2, pp. 101–110, Apr. 2021, doi: 10.1089/trgh.2020.0041.
+
+[3] The Asexual Visibility &#38; Education Network., “Asexuals and Attitudes Towards Sex,” asexuality.org. Accessed: Oct. 25, 2025. [Online]. Available: https://www.asexuality.org/?q=attitudes.html
+  
 
 ### Web Application Plan
 
