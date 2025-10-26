@@ -60,6 +60,18 @@ The ACOG writes in their Committee Opinion updated April 2019:
 [2] M. P. Galupo, L. Pulice-Farrow, and E. Pehl, “‘There Is Nothing to Do About It’: Nonbinary Individuals’ Experience of Gender Dysphoria,” Transgender health, vol. 6, no. 2, pp. 101–110, Apr. 2021, doi: 10.1089/trgh.2020.0041.
 
 [3] The Asexual Visibility &#38; Education Network., “Asexuals and Attitudes Towards Sex,” asexuality.org. Accessed: Oct. 25, 2025. [Online]. Available: https://www.asexuality.org/?q=attitudes.html
+
+### Viz Reference & Example Gallery
+
+[10 Data Visualizations to Give You a New Perspective on Pride Month](https://www.escco.org/10DataVisualizationstoGiveYouaNewPerspectiveonPrideMonth.aspx)
+
+[Flourish Example](https://flourish.studio/examples/)
+
+[Queer Youth Of Color](https://transstudent.org/wp-content/uploads/2017/08/queeryouthofcolor-scaled.jpg)
+
+[Visualizing the unequal treatment of LGBTQ people in the criminal justice system](https://www.prisonpolicy.org/blog/2021/03/02/lgbtq/)
+
+
   
 
 ### Web Application Plan
