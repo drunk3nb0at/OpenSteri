@@ -71,8 +71,9 @@ The ACOG writes in their Committee Opinion updated April 2019:
 
 [Visualizing the unequal treatment of LGBTQ people in the criminal justice system](https://www.prisonpolicy.org/blog/2021/03/02/lgbtq/)
 
+[GayTA Science](https://www.gaytascience.com/)
 
-  
+
 
 ### Web Application Plan
 
