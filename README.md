@@ -73,7 +73,7 @@ The ACOG writes in their Committee Opinion updated April 2019:
 
 [GayTA Science](https://www.gaytascience.com/)
 
-
+[What You Need to Know About The Asexual Spectrum](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*CqRjOjZrjTfJffI17Gmuaw.png)
 
 ### Web Application Plan
 
